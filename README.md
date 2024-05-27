@@ -1,6 +1,6 @@
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="ceneer">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
